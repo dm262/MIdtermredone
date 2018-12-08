@@ -39,3 +39,12 @@ body{
 .button:hover {
     text-decoration: underline;
 }
+#logo{
+    width: 160px;
+    text-align: center;
+
+}
+
+
+.clearfloat{
+    clear: both;
