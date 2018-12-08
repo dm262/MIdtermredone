@@ -46,5 +46,28 @@ body{
 }
 
 
-.clearfloat{
+.clearfloat {
     clear: both;
+}
+box{
+    width: 960px;
+    min-height: 300px;
+    max-height: auto;
+    float: left;
+    margin: 3px;
+    padding:3px;
+}
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column4 {
+    float: left;
+    width: 25%;
+}
+/* Clear floats after image containers */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
