@@ -49,7 +49,7 @@ body{
 .clearfloat {
     clear: both;
 }
-box{
+.box{
     width: 960px;
     min-height: 300px;
     max-height: auto;
@@ -71,3 +71,4 @@ box{
     content: "";
     clear: both;
     display: table;
+}
