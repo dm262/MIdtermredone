@@ -1,3 +1,6 @@
 body{
     font-family: "Helvetica Neue";
 }
+#wrapper {
+    width: 960px;
+}
