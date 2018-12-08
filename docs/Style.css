@@ -4,3 +4,7 @@ body{
 #wrapper {
     width: 960px;
 }
+#header{
+    width: 960px;
+    max-height: 200px;
+}
