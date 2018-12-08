@@ -8,3 +8,11 @@ body{
     width: 960px;
     max-height: 200px;
 }
+
+#nav {
+    width: 795px;
+    line-height: 100px;
+    text-align: right;
+    text-decoration: none;
+
+}
