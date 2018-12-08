@@ -21,3 +21,21 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+
+
+.floatleft{
+    float: left;
+}
+
+.floatright{
+    float: right;
+}
+
+.button{
+    display: inline;
+    text-align: right;
+    text-decoration: none;
+}
+.button:hover {
+    text-decoration: underline;
+}
